@@ -1,4 +1,4 @@
-import App from './utils/app';
+import App from './utils/App';
 
 let app = new App();
 
